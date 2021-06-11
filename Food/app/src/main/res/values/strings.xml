@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FoodRescueApp</string>
+
+    <string name="email">Account</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm">Confirm</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="add">Add</string>
+    <string name="image">Image</string>
+    <string name="discover_free_food">Discover Free Food</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="my_list">My List</string>
+    <string name="cart">Cart</string>
+    <string name="border">Border</string>
+    <string name="camera">Camera</string>
+    <string name="add_image">Add Image</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="location">Location</string>
+    <string name="save">Save</string>
+    <string name="Auth">AIzaSyBAjnVtCy9nB7V7XuKCxks8HQ-WIjy63nM</string>
+    <string name="dummy">Dummy</string>
+	<string name="buy_with_g_pay">Buy with G Pay</string>
+    <string name="add_to_cart">Add to Cart</string>
+</resources>
